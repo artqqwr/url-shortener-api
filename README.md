@@ -15,6 +15,9 @@ This is a simple pet project web application built with Java and Spring Boot for
 - Automatic API documentation built with Swagger/OpenAPI
 - Containerized database (PostgreSQL) and cache (Redis) via Docker Compose
 
+![image](https://github.com/user-attachments/assets/bd7cdfce-5497-4b1a-9dbb-25f3a6108b9f)
+
+
 ## Technologies Used
 
 - **Java 11+**
