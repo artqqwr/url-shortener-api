@@ -142,5 +142,6 @@ This is a simple pet project web application built with Java and Spring Boot for
 - [X] Click statistics logging (have TODO)
 - [X] Swagger doc
 - [X] Postgres
+- [ ] Url delete handler 
 - [ ] Additional enhancements and tests
 
